@@ -1,5 +1,5 @@
 {
-	"name": "Haskell Test",
+	"name": "Haskell Development Environment",
 	"dockerFile": "Dockerfile",
 	"appPort": 9001,
 	"extensions": [
